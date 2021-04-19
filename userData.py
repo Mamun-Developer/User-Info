@@ -30,5 +30,3 @@ class UserData:
 
     def set_age(self, age):
         self.__age = age
-
-

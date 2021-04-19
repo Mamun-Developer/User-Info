@@ -6,7 +6,3 @@ print(user1.get_name())
 print(user1.get_email())
 print(user1.get_phone())
 print(user1.get_age())
-
-# this is comment
-# this is comment 2
-# this is comment 3
