@@ -1,5 +1,6 @@
 Al Mamun  : 1. Input data: Name,Email,Phone,Age
 Hridoy    : 2. Store these data into firebase
 Shofiullah: 3. Read spefic user data from firebase (key = email)
+
 Al Mamun  : 4. Update spefic user data from firebase
 Shofiullah: 5. Delete spefic user data from firebase
